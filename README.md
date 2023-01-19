@@ -34,7 +34,8 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![WhatsApp Image 2023-01-14 at 12 36 30](https://user-images.githubusercontent.com/119401150/212460857-ded71b0f-dd7a-4159-b9fe-770780b1b054.jpg)
+
+![var2](https://user-images.githubusercontent.com/119401150/213507678-24ea95c0-8f13-42c5-aa52-0b0d24ef4bac.jpeg)
 
 
 
